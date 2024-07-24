@@ -1,0 +1,16 @@
+{
+    "name": "thoma/php-project",
+    "description": "Description",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thomas-cormican",
+            "email": "thomascormican123@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "gerbenjacobs/habbo-api": "dev-master"
+    }
+}
